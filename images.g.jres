@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQIAAgAAAAAAAAAAAAAAAAAAAAAACJVAAAiVQAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pill"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAiAAAAAAAAICIAAAAAAAAiIgAAAAAAACPiAAAAAAAgI+IAAAAAACMb4gAAAAAiHxsZszMz494fHxm3b1/f1V2dncAAAAAZlZ2dwAAAAAAZn93AAAAAABgX3UAAAAAAAB2VwAAAAAAAGZ3AAAAAAAAYGYAAAAAAAAAZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "plane"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
